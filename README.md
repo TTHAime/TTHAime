@@ -121,11 +121,6 @@
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <a href="https://github.com/TTHAime">
-    <img src="https://github-readme-stats.vercel.app/api?username=TTHAime&show_icons=true&hide_border=true&bg_color=1c1917&text_color=ffffff&title_color=0891b2&icon_color=0891b2" alt="GitHub Stats" />
-  </a>
-</p>
 
 <p align="left">
   <a href="https://github.com/TTHAime">
