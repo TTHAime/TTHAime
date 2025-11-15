@@ -13,7 +13,7 @@
 
 - 🌍 Based in **Bangkok, Thailand**
 - 🎓 **3rd-year Computer Science student @ KMITL**
-- 💻 Interested in **Full-stack Web**, **Data Engineering**, and **Machine Learning**
+- 💻 Interested in **Full-stack Web**, **Data Scientist**, and **Machine Learning**
 - ✉️ Reach me at **[thanaphon.thpcd@gmail.com](mailto:thanaphon.thpcd@gmail.com)**
 
 ---
