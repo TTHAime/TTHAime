@@ -50,7 +50,7 @@
   <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" height="40" alt="streamlit"/>
 </p>
 
-### 🤖 AI Automation & Workflow Orchestration
+###  AI Automation & Workflow Orchestration
  <a href="https://n8n.io/" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/n8n/EA4B71" alt="n8n" title="n8n" width="36" height="36" />
 </a>
@@ -60,7 +60,6 @@
   <strong>DevOps / Tools:</strong><br/>
   <img src="https://skillicons.dev/icons?i=docker,git,postman,figma" height="40"/>
 </p>
----
 
 ### 🌐 Socials
 
@@ -76,11 +75,4 @@
 
 ---
 
-### 📊 GitHub Stats
-
-
-<p align="left">
-  <a href="https://github.com/TTHAime">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TTHAime&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
-  </a>
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TTHAime&" alt="TTHAime" /></p>
