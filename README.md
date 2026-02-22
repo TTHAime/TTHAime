@@ -22,7 +22,7 @@
 
 <!-- Core -->
 <p align="left">
-  <strong>Core:</strong><br/>
+  <strong>Languages:</strong><br/>
   <img src="https://skillicons.dev/icons?i=python,java,js,ts,php" height="40"/>
 </p>
 
@@ -49,6 +49,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" alt="matplotlib"/>
   <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" height="40" alt="streamlit"/>
 </p>
+
+### 🤖 AI Automation & Workflow Orchestration
+ <a href="https://n8n.io/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/n8n/EA4B71" alt="n8n" title="n8n" width="36" height="36" />
+</a>
 
 <!-- DevOps / Tools -->
 <p align="left">
