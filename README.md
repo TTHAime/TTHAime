@@ -51,10 +51,10 @@
 </p>
 
 <p align="left">
-  <strong>AI Automation & Workflow Orchestration:</strong><br/>
-  <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="40" alt="n8n"/>
-  <img src="https://cdn.simpleicons.org/langchain/1C3C3C" height="40" alt="langchain"/>
-  <img src="https://cdn.simpleicons.org/llamaindex/000000" height="40" alt="llamaindex"/>
+  <strong>AI Automation & Workflow Orchestration</strong><br/>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge&logo=llamaindex&logoColor=white" />
 </p>
 
 <!-- DevOps / Tools -->
