@@ -50,10 +50,18 @@
   <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" height="40" alt="streamlit"/>
 </p>
 
-###  AI Automation & Workflow Orchestration
- <a href="https://n8n.io/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/n8n/EA4B71" alt="n8n" title="n8n" width="36" height="36" />
-</a>
+<p align="left">
+    <strong>AI Automation & Workflow Orchestration</strong><br/>
+    <a href="https://n8n.io/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.simpleicons.org/n8n/EA4B71" alt="n8n" title="n8n" width="36" height="36" />
+    </a>
+    <a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.simpleicons.org/langchain/121212" alt="LangChain" title="LangChain" width="36" height="36" />
+    </a>
+    <a href="https://www.llamaindex.ai/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.simpleicons.org/llamaindex/000000" alt="LlamaIndex" title="LlamaIndex" width="36" height="36" />
+    </a>
+</p>
 
 <!-- DevOps / Tools -->
 <p align="left">
